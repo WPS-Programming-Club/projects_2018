@@ -1,6 +1,8 @@
 # **Welcome to WPSPC's 2018 Project Page**
 
-![WPS][WPS_Logo]
+<p align="center">
+  <img width="360" height="360" src="https://pbs.twimg.com/profile_images/497383686312964096/yNaTp0ht_400x400.jpeg">
+</p>
 
 Here, you will find currently available projects for this year and other useful info.
 
